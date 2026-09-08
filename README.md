@@ -1,6 +1,6 @@
 GitHub User Activity CLI
 
-This is a simple command-line application built with Python. It allows the user to enter a GitHub username and fetch that user's recent public activity using the GitHub API.
+This is a simple command-line application built with Python. It allows the user to enter a GitHub username and fetch that user's recent public activity using the GitHub API. From https://roadmap.sh/projects/github-user-activity
 
 Features
 Accepts a GitHub username from the command line
